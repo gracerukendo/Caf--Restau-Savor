@@ -164,7 +164,7 @@
               <img src="assets/img/restaurant/chef-3.webp" alt="Executive Chef" class="img-fluid rounded">
               <div class="experience-badge">
                 <span class="years">25+</span>
-                <span class="text">Years of Culinary Excellence</span>
+                <span class="text">ans d’excellence culinaire</span>
               </div>
             </div>
           </div>
@@ -172,14 +172,15 @@
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="about-content">
               <div class="section-header">
-                <h2>Meet Our Executive Chef</h2>
-                <p class="subtitle">Crafting memorable dining experiences since 1999</p>
+                <h2>Rencontrez notre Chef Exécutif</h2>
+                <p class="subtitle">L’élégance du goût et la passion de la cuisine depuis 1999</p>
               </div>
 
               <div class="story-text">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <p>Depuis plus de vingt ans, notre Chef façonne des expériences culinaires uniques où authenticité et créativité se rencontrent.
+                Dans notre café-restaurant, chaque plat est une invitation au voyage des sens : des arômes soigneusement travaillés, des saveurs équilibrées et une présentation qui célèbre le plaisir de la table.</p>
 
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Attaché à la qualité des produits locaux et à la finesse des recettes maison, il allie passion et savoir-faire pour faire de chaque repas un instant de bonheur partagé.</p>
               </div>
 
               <div class="chef-highlights">
@@ -201,14 +202,14 @@
 
               <div class="chef-quote">
                 <blockquote>
-                  "Cooking is not just about feeding people; it's about creating moments that bring families and friends together around the table."
+                  « Cuisiner, ce n’est pas seulement nourrir les gens, c’est créer des moments qui rassemblent familles et amis autour d’une même table. »
                 </blockquote>
                 <cite>- Chef Alessandro Romano</cite>
               </div>
 
               <div class="cta-buttons">
-                <a href="#menu" class="btn btn-primary">View Menu</a>
-                <a href="#book-a-table" class="btn btn-orange">Book a Table</a>
+                <a href="#menu" class="btn btn-primary">Voir le Menu</a>
+                <a href="#book-a-table" class="btn btn-orange">Réserver une table</a>
               </div>
             </div>
           </div>
@@ -220,8 +221,8 @@
               <div class="gallery-item">
                 <img src="assets/img/restaurant/showcase-2.webp" alt="Restaurant Interior" class="img-fluid rounded">
                 <div class="gallery-caption">
-                  <h4>Elegant Dining</h4>
-                  <p>Sophisticated ambiance for every occasion</p>
+                  <h4>Savourez avec élégance</h4>
+                  <p>Un cadre agréable et sophistiqué pour chaque rencontre</p>
                 </div>
               </div>
             </div><!-- End Gallery Item -->
@@ -230,8 +231,8 @@
               <div class="gallery-item">
                 <img src="assets/img/restaurant/main-4.webp" alt="Signature Dish" class="img-fluid rounded">
                 <div class="gallery-caption">
-                  <h4>Signature Dishes</h4>
-                  <p>Artfully crafted seasonal specialties</p>
+                  <h4>Spécialités du Chef</h4>
+                  <p>Des créations saisonnières raffinées, sublimées par notre savoir-faire</p>
                 </div>
               </div>
             </div><!-- End Gallery Item -->
@@ -240,8 +241,8 @@
               <div class="gallery-item">
                 <img src="assets/img/restaurant/misc-7.webp" alt="Wine Selection" class="img-fluid rounded">
                 <div class="gallery-caption">
-                  <h4>Curated Wine</h4>
-                  <p>Exceptional pairings from around the world</p>
+                  <h4>Notre Sélection de Vins</h4>
+                  <p>Des vins soigneusement choisis pour sublimer chaque plat</p>
                 </div>
               </div>
             </div><!-- End Gallery Item -->
@@ -258,7 +259,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Menu</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Des saveurs qui éveillent vos sens et ravissent chaque instant</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -269,12 +270,12 @@
               <ul class="nav nav-pills justify-content-center" id="menuTabs" role="tablist">
                 <li class="nav-item" role="presentation">
                   <button class="nav-link active" id="menu-starters-tab" data-bs-toggle="pill" data-bs-target="#menu-starters" type="button" role="tab">
-                    <i class="bi bi-egg-fried me-2"></i>Starters
+                    <i class="bi bi-egg-fried me-2"></i>Entrées
                   </button>
                 </li>
                 <li class="nav-item" role="presentation">
                   <button class="nav-link" id="menu-mains-tab" data-bs-toggle="pill" data-bs-target="#menu-mains" type="button" role="tab">
-                    <i class="bi bi-cup-hot me-2"></i>Main Courses
+                    <i class="bi bi-cup-hot me-2"></i>Plats Principaux
                   </button>
                 </li>
                 <li class="nav-item" role="presentation">
@@ -284,7 +285,7 @@
                 </li>
                 <li class="nav-item" role="presentation">
                   <button class="nav-link" id="menu-drinks-tab" data-bs-toggle="pill" data-bs-target="#menu-drinks" type="button" role="tab">
-                    <i class="bi bi-cup me-2"></i>Beverages
+                    <i class="bi bi-cup me-2"></i>Boissons
                   </button>
                 </li>
               </ul>
@@ -300,19 +301,19 @@
                 <div class="menu-item">
                   <div class="menu-item-image">
                     <img src="assets/img/restaurant/starter-6.webp" class="img-fluid" alt="Starter">
-                    <div class="special-badge">Chef's Pick</div>
+                    <div class="special-badge">Suggestion du Chef</div>
                   </div>
                   <div class="menu-item-content">
                     <div class="menu-item-header">
-                      <h4>Crispy Calamari Rings</h4>
+                      <h4>Anneaux de Calamar Croquants</h4>
                       <div class="dietary-tags">
                         <span class="tag spicy"><i class="bi bi-fire"></i></span>
                       </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore</p>
+                    <p>Des calamars dorés et croustillants, servis avec une sauce délicate pour éveiller vos papilles.</p>
                     <div class="menu-item-footer">
                             <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
-                      <span class="price">$18</span>
+                      <span class="price">$15</span>
                     </div>
                   </div>
                 </div>
@@ -325,12 +326,12 @@
                   </div>
                   <div class="menu-item-content">
                     <div class="menu-item-header">
-                      <h4>Truffle Arancini</h4>
+                      <h4>Arancini à la Truffe</h4>
                       <div class="dietary-tags">
                         <span class="tag vegetarian"><i class="bi bi-leaf"></i></span>
                       </div>
                     </div>
-                    <p>Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                    <p>Boulettes de riz croustillantes, parfumées à la truffe.</p>
                     <div class="menu-item-footer">
                          <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$16</span>
@@ -346,15 +347,15 @@
                   </div>
                   <div class="menu-item-content">
                     <div class="menu-item-header">
-                      <h4>Salmon Ceviche</h4>
+                      <h4>Ceviche de Saumon</h4>
                       <div class="dietary-tags">
                         <span class="tag gluten-free"><i class="bi bi-check-circle"></i></span>
                       </div>
                     </div>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
+                    <p>Saumon frais mariné aux agrumes, servi en entrée rafraîchissante.</p>
                     <div class="menu-item-footer">
                          <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
-                      <span class="price">$22</span>
+                      <span class="price">10$</span>
                     </div>
                   </div>
                 </div>
@@ -367,15 +368,15 @@
                   </div>
                   <div class="menu-item-content">
                     <div class="menu-item-header">
-                      <h4>Beef Tartare</h4>
+                      <h4>Tartare de Bœuf</h4>
                       <div class="dietary-tags">
                         <span class="tag premium"><i class="bi bi-star-fill"></i></span>
                       </div>
                     </div>
-                    <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim</p>
+                    <p>Bœuf cru finement haché, assaisonné pour révéler toutes ses saveurs.</p>
                     <div class="menu-item-footer">
                       <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
-                      <span class="price">$28</span>
+                      <span class="price">25$</span>
                     </div>
                   </div>
                 </div>
