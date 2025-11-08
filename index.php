@@ -672,8 +672,12 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Témoignages</h2>
+        <p>
+
+Nos clients partagent leur expérience
+
+“Chaque visite dans ce café-restaurant est un vrai plaisir. L'ambiance, le service et les plats créatifs font de chaque moment un souvenir mémorable.”</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -688,7 +692,7 @@
                 </div>
                 <div class="testimonial-meta">
                   <h3>Sophia Martinez</h3>
-                  <h4>Creative Director</h4>
+                  <h4>Directrice Creative </h4>
                   <div class="company-logo">
                     <i class="bi bi-building"></i>
                   </div>
@@ -696,7 +700,7 @@
               </div>
               <div class="testimonial-body">
                 <i class="bi bi-chat-quote-fill quote-icon"></i>
-                <p>Leveraging cutting-edge design principles to create immersive brand experiences that resonate with modern audiences.</p>
+                <p>Grâce à un design soigné et une ambiance immersive, ce café-restaurant offre une expérience unique qui séduit chaque visiteur.</p>
               </div>
             </div>
           </div>
@@ -709,7 +713,7 @@
                 </div>
                 <div class="testimonial-meta">
                   <h3>Alexander Wright</h3>
-                  <h4>CEO &amp; Founder</h4>
+                  <h4>CEO &amp; Foundateur</h4>
                   <div class="company-logo">
                     <i class="bi bi-buildings"></i>
                   </div>
@@ -717,7 +721,7 @@
               </div>
               <div class="testimonial-body">
                 <i class="bi bi-chat-quote-fill quote-icon"></i>
-                <p>Revolutionary solutions have transformed our business landscape, driving unprecedented growth and market leadership position.</p>
+                <p>Des solutions innovantes et une approche professionnelle ont transformé notre expérience culinaire, plaçant ce lieu en référence du marché.</p>
               </div>
             </div>
           </div>
@@ -730,7 +734,7 @@
                 </div>
                 <div class="testimonial-meta">
                   <h3>Isabella Kim</h3>
-                  <h4>Product Strategist</h4>
+                  <h4>Stratège Produit</h4>
                   <div class="company-logo">
                     <i class="bi bi-building-check"></i>
                   </div>
@@ -738,7 +742,8 @@
               </div>
               <div class="testimonial-body">
                 <i class="bi bi-chat-quote-fill quote-icon"></i>
-                <p>Strategic implementation of innovative technologies has elevated our product development and market penetration.</p>
+                <p>
+« L’introduction de technologies et de méthodes créatives a permis de sublimer la préparation et la présentation des plats.</p>
               </div>
             </div>
           </div>
@@ -776,7 +781,8 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Chefs</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Notre équipe de passionnés
+        Des experts qui transforment chaque plat en expérience culinaire inoubliable.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -792,17 +798,17 @@
                 <h2>Eliot Johnson</h2>
                 <div class="experience-years">
                   <span class="number">15+</span>
-                  <span class="text">Years of Excellence</span>
+                  <span class="text">ans d’excellence</span>
                 </div>
-                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Mauris viverra veniam sit amet lacus cursus, vel blandit libero tempus. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet non curabitur gravida.</p>
+                <p>Depuis plus de 15 ans, Eliot Johnson s’engage à créer des plats qui marient saveurs, créativité et qualité. Chaque assiette raconte une histoire.</p>
                 <div class="achievements">
                   <div class="achievement-item">
                     <i class="bi bi-trophy-fill"></i>
-                    <span>Culinary Excellence Award 2023</span>
+                    <span>Prix d’Excellence Culinaire 2023</span>
                   </div>
                   <div class="achievement-item">
                     <i class="bi bi-star-fill"></i>
-                    <span>Michelin Featured Restaurant</span>
+                    <span>Restaurant recommandé par Michelin</span>
                   </div>
                 </div>
               </div>
@@ -835,8 +841,8 @@
                 </div>
                 <div class="member-info">
                   <h4>Elena Vasquez</h4>
-                  <span class="position">Head Pastry Chef</span>
-                  <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua consectetur adipiscing elit.</p>
+                  <span class="position">Chef Pâtissière</span>
+                  <p>Passionnée par la pâtisserie, elle crée des desserts qui émerveillent les yeux et les papilles.</p>
                 </div>
               </div>
             </div>
@@ -854,8 +860,8 @@
                 </div>
                 <div class="member-info">
                   <h4>David Thompson</h4>
-                  <span class="position">Sous Chef</span>
-                  <p>Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+                  <span class="position">Sous-Chef</span>
+                  <p>Il assure la préparation quotidienne des plats avec rigueur et créativité.</p>
                 </div>
               </div>
             </div>
@@ -873,8 +879,8 @@
                 </div>
                 <div class="member-info">
                   <h4>Maria Santos</h4>
-                  <span class="position">Kitchen Manager</span>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.</p>
+                  <span class="position">Responsable Cuisine</span>
+                  <p>Organisée et minutieuse, elle veille à la qualité et à la fluidité de chaque service.</p>
                 </div>
               </div>
             </div>
@@ -892,8 +898,8 @@
                 </div>
                 <div class="member-info">
                   <h4>Roberto Kim</h4>
-                  <span class="position">Wine Sommelier</span>
-                  <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit.</p>
+                  <span class="position">Sommelier</span>
+                  <p>Expert en vins, il accompagne chaque plat du meilleur accord pour sublimer les saveurs.</p>
                 </div>
               </div>
             </div>
@@ -913,7 +919,7 @@
           <div class="col-lg-6 reservation-form-col" data-aos="fade-right" data-aos-delay="200">
             <div class="reservation-form-container">
               <div class="form-header content">
-                <span class="subtitle">Make a Reservation</span>
+                <span class="subtitle">Réserver un événement</span>
                 <h3>Reserve Your Table Today</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget eros vitae magna eleifend lacinia a eget nisl.</p>
               </div>
@@ -921,19 +927,19 @@
             <form action="index.php" method="post" class="php-email-form">
                 <div class="row g-3">
                   <div class="col-12 form-group">
-                    <label for="name">Full Name</label>
+                    <label for="name">Nom complet</label>
                     <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" required="">
                   </div>
                   <div class="col-12 form-group">
-                    <label for="phone">Phone Number</label>
+                    <label for="phone">Téléphone</label>
                     <input type="text" id="phone" class="form-control" name="phone" placeholder="Your Phone" required="">
                   </div>
                   <div class="col-12 form-group">
-                    <label for="email">Email Address</label>
+                    <label for="email"> Address Email</label>
                     <input type="email" id="email" class="form-control" name="email" placeholder="Your Email" required="">
                   </div>
                   <div class="col-12 form-group">
-                    <label for="people">Number of People</label>
+                    <label for="people">Nombre de convives</label>
                     <select name="people" id="people" class="form-select" required="">
                       <option value="">Select guests</option>
                       <option value="1">1 Person</option>
@@ -945,16 +951,16 @@
                     </select>
                   </div>
                   <div class="col-12 form-group">
-                    <label for="date">Reservation Date</label>
+                    <label for="date">Date de Reservation </label>
                     <input type="date" id="date" name="date" class="form-control" required="">
                   </div>
                   <div class="col-12 form-group">
-                    <label for="time">Reservation Time</label>
+                    <label for="time">Temps Reservation</label>
                     <input type="time" id="time" class="form-control" name="time" required="">
                   </div>
 
                   <div class="col-12 form-group">
-                    <label for="message">Special Requests</label>
+                    <label for="message">Massage</label>
                     <textarea id="message" class="form-control" name="message" rows="2" placeholder="Allergies, special occasions, seating preferences"></textarea>
                   </div>
                 </div>
@@ -966,7 +972,7 @@
                 </div>
 
                 <div class="text-center">
-                  <button type="submit" class="btn-book-table">Confirm Reservation</button>
+                  <button type="submit" class="btn-book-table">Confirmer la Reservation</button>
                 </div>
               </form>
             </div>
@@ -980,16 +986,16 @@
 
               <div class="info-content content">
                 <div class="restaurant-contact">
-                  <h4>Restaurant Information</h4>
+                  <h4> Information du Restaurant</h4>
 
                   <div class="info-item" data-aos="fade-up" data-aos-delay="100">
                     <div class="icon-box">
                       <i class="bi bi-clock"></i>
                     </div>
                     <div class="info-text">
-                      <h5>Opening Hours</h5>
-                      <p>Mon - Fri: 11:00 AM - 11:00 PM<br>
-                        Sat - Sun: 10:00 AM - 12:00 AM</p>
+                      <h5>Temps d'ouverture</h5>
+                      <p>Lun - jeu: 11:00 AM - 11:00 PM<br>
+                        Sam - Dim: 10:00 AM - 12:00 AM</p>
                     </div>
                   </div>
 
@@ -998,7 +1004,7 @@
                       <i class="bi bi-geo-alt"></i>
                     </div>
                     <div class="info-text">
-                      <h5>Our Location</h5>
+                      <h5>Notre Localisation</h5>
                       <p>5625 Riverside Avenue<br>Newport, RI 02840</p>
                     </div>
                   </div>
@@ -1008,8 +1014,8 @@
                       <i class="bi bi-telephone"></i>
                     </div>
                     <div class="info-text">
-                      <h5>Reservations</h5>
-                      <p>+1 (401) 555-8792</p>
+                      <h5>Numéro tél</h5>
+                      <p>+243 891 638 231</p>
                     </div>
                   </div>
 
@@ -1018,14 +1024,14 @@
                       <i class="bi bi-envelope"></i>
                     </div>
                     <div class="info-text">
-                      <h5>Email Us</h5>
-                      <p>reservations@example.com</p>
+                      <h5>Email</h5>
+                      <p>gracerukendo2@gmail.com</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="reservation-cta" data-aos="fade-up" data-aos-delay="500">
-                  <h5>Prefer to call?</h5>
+                  <h5>Veux tu appeller ?</h5>
                   <a href="tel:+14015558792" class="phone-button">
                     <i class="bi bi-telephone-fill"></i>
                     Call for Reservations
@@ -1049,8 +1055,9 @@
           <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
             <div class="location-content">
               <div class="content-header">
-                <h2>Visit Our Establishment</h2>
-                <p class="subtitle">Located in the heart of Manhattan's culinary district</p>
+                <h2>Visitez Notre Établissement</h2>
+                <p class="subtitle">Situé au cœur du quartier culinaire de la ville
+Découvrez Savora, un café-restaurant où le goût authentique rencontre l’élégance moderne</p>
               </div>
 
               <div class="map-wrapper">
@@ -1058,7 +1065,7 @@
                 <div class="map-overlay">
                   <div class="location-badge">
                     <i class="bi bi-geo-alt"></i>
-                    <span>We're Here</span>
+                    <span>Nous Sommes Là</span>
                   </div>
                 </div>
               </div>
@@ -1149,16 +1156,18 @@
         <div class="row align-items-center mb-5">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="150">
             <div class="event-hero-content">
-              <h2>Exceptional Events &amp; Private Dining</h2>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+              <h2>Événements Exceptionnels & Dîners Privés</h2>
+
+              <p>Découvrez un espace élégant et raffiné, idéal pour vos réceptions, anniversaires, repas d’affaires ou événements spéciaux.
+Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expérience inoubliable, alliant gastronomie, ambiance et service de qualité.</p>
               <div class="event-stats">
                 <div class="stat-item">
                   <span class="stat-number">500+</span>
-                  <span class="stat-label">Events Hosted</span>
+                  <span class="stat-label">Événements organisés</span>
                 </div>
                 <div class="stat-item">
                   <span class="stat-number">200</span>
-                  <span class="stat-label">Max Capacity</span>
+                  <span class="stat-label">Capacité maximale</span>
                 </div>
               </div>
             </div>
@@ -1168,7 +1177,7 @@
               <img src="assets/img/restaurant/event-2.webp" alt="Event Space" class="img-fluid">
               <div class="floating-card" data-aos="zoom-in" data-aos-delay="300">
                 <i class="bi bi-calendar-check"></i>
-                <span>Book Your Event Today</span>
+                <span>Réservez aujourd’hui !</span>
               </div>
             </div>
           </div>
