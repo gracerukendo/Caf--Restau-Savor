@@ -942,12 +942,12 @@ Nos clients partagent leur expérience
                     <label for="people">Nombre de convives</label>
                     <select name="people" id="people" class="form-select" required="">
                       <option value="">Select guests</option>
-                      <option value="1">1 Person</option>
-                      <option value="2">2 People</option>
-                      <option value="3">3 People</option>
-                      <option value="4">4 People</option>
-                      <option value="5">5 People</option>
-                      <option value="6">6+ People</option>
+                      <option value="1">1 Personne</option>
+                      <option value="2">2 Personnes</option>
+                      <option value="3">3 Personnes</option>
+                      <option value="4">4 Personnes</option>
+                      <option value="5">5 Personnes</option>
+                      <option value="6">6+ Personnes</option>
                     </select>
                   </div>
                   <div class="col-12 form-group">
@@ -966,7 +966,7 @@ Nos clients partagent leur expérience
                 </div>
 
                 <div class="my-3">
-                  <div class="loading">Loading</div>
+                  <div class="loading">Traitement</div>
                   <div class="error-message"></div>
                   <div class="sent-message">Your booking request was sent. We will call back or send an Email to confirm your reservation. Thank you!</div>
                 </div>
@@ -1185,8 +1185,9 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
 
         <div class="event-packages" data-aos="fade-up" data-aos-delay="200">
           <div class="section-header text-center mb-5">
-            <h3>Choose Your Perfect Package</h3>
-            <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam</p>
+            <h3>Choisissez Votre Formule Parfaite</h3>
+            <p>Découvrez nos offres spécialement conçues pour répondre à tous vos besoins, que vous organisiez une fête, un dîner privé ou un événement professionnel.
+Nous vous garantissons une expérience élégante, gourmande et parfaitement organisée.</p>
           </div>
 
           <div class="row g-4">
@@ -1196,22 +1197,32 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                   <div class="package-icon">
                     <i class="bi bi-gem"></i>
                   </div>
-                  <h4>Premium Package</h4>
+                  <h4>Formule Premium</h4>
                   <div class="package-price">
-                    <span class="price">$129</span>
-                    <span class="per">per person</span>
+                    <span class="price">30 $ </span>
+                    <span class="per">par personne</span>
                   </div>
                 </div>
+          
+
+
+
+
+
+
+
+
+
                 <div class="package-features">
                   <ul>
-                    <li><i class="bi bi-check-circle"></i> 5-course gourmet menu</li>
-                    <li><i class="bi bi-check-circle"></i> Premium wine selection</li>
-                    <li><i class="bi bi-check-circle"></i> Dedicated event coordinator</li>
-                    <li><i class="bi bi-check-circle"></i> Custom table arrangements</li>
-                    <li><i class="bi bi-check-circle"></i> Professional photography</li>
+                    <li><i class="bi bi-check-circle"></i> Menu gastronomique en 5 services</li>
+                    <li><i class="bi bi-check-circle"></i> Sélection de vins premium</li>
+                    <li><i class="bi bi-check-circle"></i> Coordinateur d’événement dédié</li>
+                    <li><i class="bi bi-check-circle"></i> Tables personnalisées </li>
+                    <li><i class="bi bi-check-circle"></i> photographie professionnelle</li>
                   </ul>
                 </div>
-                <div class="package-capacity">30-80 guests</div>
+                <div class="package-capacity">30 à 80 invités</div>
               </div>
             </div>
 
@@ -1222,22 +1233,32 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                   <div class="package-icon">
                     <i class="bi bi-star"></i>
                   </div>
-                  <h4>Standard Package</h4>
+                  <h4>Formule Standard</h4>
                   <div class="package-price">
-                    <span class="price">$89</span>
-                    <span class="per">per person</span>
+                    <span class="price">15 $</span>
+                    <span class="per">par personne
+</span>
                   </div>
                 </div>
                 <div class="package-features">
                   <ul>
-                    <li><i class="bi bi-check-circle"></i> 3-course dinner menu</li>
-                    <li><i class="bi bi-check-circle"></i> Welcome cocktail hour</li>
-                    <li><i class="bi bi-check-circle"></i> Event planning assistance</li>
-                    <li><i class="bi bi-check-circle"></i> Audio/visual equipment</li>
-                    <li><i class="bi bi-check-circle"></i> Complimentary parking</li>
+
+
+
+
+
+
+
+
+
+                    <li><i class="bi bi-check-circle"></i> Menu complet en 3 services</li>
+                    <li><i class="bi bi-check-circle"></i> Cocktail de bienvenue</li>
+                    <li><i class="bi bi-check-circle"></i> Assistance à la planification de l’événement</li>
+                    <li><i class="bi bi-check-circle"></i> Matériel audio/visuel inclus</li>
+                    <li><i class="bi bi-check-circle"></i> Parking gratuit</li>
                   </ul>
                 </div>
-                <div class="package-capacity">20-120 guests</div>
+                <div class="package-capacity"> 20 à 120 invités</div>
               </div>
             </div>
 
@@ -1247,22 +1268,22 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                   <div class="package-icon">
                     <i class="bi bi-heart"></i>
                   </div>
-                  <h4>Essentials Package</h4>
+                  <h4>Formule Essentielle</h4>
                   <div class="package-price">
-                    <span class="price">$59</span>
-                    <span class="per">per person</span>
+                    <span class="price">10 $ </span>
+                    <span class="per">par personne</span>
                   </div>
                 </div>
                 <div class="package-features">
                   <ul>
-                    <li><i class="bi bi-check-circle"></i> Buffet style dinner</li>
-                    <li><i class="bi bi-check-circle"></i> House wine &amp; beer</li>
-                    <li><i class="bi bi-check-circle"></i> Basic decorations</li>
-                    <li><i class="bi bi-check-circle"></i> Standard seating</li>
-                    <li><i class="bi bi-check-circle"></i> 4-hour venue rental</li>
+                    <li><i class="bi bi-check-circle"></i> Buffet complet</li>
+                    <li><i class="bi bi-check-circle"></i> Vin maison & bière inclus</li>
+                    <li><i class="bi bi-check-circle"></i> Décorations simples</li>
+                    <li><i class="bi bi-check-circle"></i> Disposition standard des sièges</li>
+                    <li><i class="bi bi-check-circle"></i> Location du lieu pendant 4 heures</li>
                   </ul>
                 </div>
-                <div class="package-capacity">15-60 guests</div>
+                <div class="package-capacity">15 à 60 invités</div>
               </div>
             </div>
           </div>
@@ -1301,8 +1322,9 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
           <div class="row">
             <div class="col-lg-6" data-aos="slide-right" data-aos-delay="250">
               <div class="booking-info">
-                <h3>Plan Your Next Event</h3>
-                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                <h3>Planifiez Votre Prochain Événement</h3>
+                <p>Organiser un moment inoubliable n’a jamais été aussi simple. Que ce soit pour un anniversaire, une réunion professionnelle, un dîner privé ou une célébration spéciale, Café Savora met à votre disposition un espace chaleureux, un service irréprochable et une équipe dédiée pour faire de votre événement une réussite totale.
+Profitez de notre expertise, de nos menus personnalisés et d’une coordination soignée du début à la fin.</p>
 
                 <div class="contact-methods">
                   <div class="contact-item">
@@ -1310,8 +1332,8 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                       <i class="bi bi-telephone"></i>
                     </div>
                     <div class="contact-details">
-                      <span class="contact-label">Call Us</span>
-                      <span class="contact-value">+1 (555) 123-4567</span>
+                      <span class="contact-label">Contactez-nous</span>
+                      <span class="contact-value">+243 861 614 471</span>
                     </div>
                   </div>
                   <div class="contact-item">
@@ -1320,7 +1342,7 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                     </div>
                     <div class="contact-details">
                       <span class="contact-label">Email</span>
-                      <span class="contact-value">events@example.com</span>
+                      <span class="contact-value">gracerukendo2@gmail.com</span>
                     </div>
                   </div>
                   <div class="contact-item">
@@ -1328,8 +1350,8 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                       <i class="bi bi-clock"></i>
                     </div>
                     <div class="contact-details">
-                      <span class="contact-label">Planning Hours</span>
-                      <span class="contact-value">Mon-Fri 9AM-6PM</span>
+                      <span class="contact-label">Heures de planification</span>
+                      <span class="contact-value">Lun–Ven : 9h00 – 18h00</span>
                     </div>
                   </div>
                 </div>
@@ -1413,19 +1435,19 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Gallery</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Galerie</h2>
+        <p>Découvrez en images l’ambiance unique de Café Savora : nos plats raffinés, notre intérieur chaleureux, nos événements privés et notre équipe dynamique. Chaque photo reflète notre passion pour l’art culinaire et l’hospitalité.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
           <ul class="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-food">Food</li>
-            <li data-filter=".filter-interior">Interior</li>
-            <li data-filter=".filter-events">Events</li>
-            <li data-filter=".filter-staff">Staff</li>
+            <li data-filter="*" class="filter-active">Tout</li>
+            <li data-filter=".filter-food"> Plats</li>
+            <li data-filter=".filter-interior">Intérieur</li>
+            <li data-filter=".filter-events">Événements</li>
+            <li data-filter=".filter-staff">Équipe</li>
           </ul><!-- End Gallery Filters -->
 
           <div class="row g-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -1558,7 +1580,7 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>N’hésitez pas à nous joindre pour toute question concernant nos services, nos menus, les réservations ou l’organisation d’événements. Notre équipe se fera un plaisir de vous répondre dans les plus brefs délais.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -1566,15 +1588,15 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
           <div class="col-lg-5">
             <div class="contact-info">
               <div class="contact-card">
-                <h3>Contact Information</h3>
-                <p>Feel free to reach out with any questions about the book, speaking engagements, or media inquiries.</p>
+                <h3>Contact</h3>
+                <p>N’hésitez pas à nous joindre pour toute question concernant nos services, nos menus, les réservations ou l’organisation d’événements. Notre équipe se fera un plaisir de vous répondre dans les plus brefs délais.</p>
 
                 <div class="contact-details">
                   <div class="contact-item">
                     <i class="bi bi-envelope"></i>
                     <div>
                       <h4>Email:</h4>
-                      <p>author@example.com</p>
+                      <p>gracerukendo2@gmail.com</p>
                     </div>
                   </div>
 
@@ -1582,7 +1604,7 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                     <i class="bi bi-telephone"></i>
                     <div>
                       <h4>Phone:</h4>
-                      <p>+1 (555) 123-4567</p>
+                      <p>+243 861 614 471</p>
                     </div>
                   </div>
 
@@ -1590,17 +1612,17 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
                     <i class="bi bi-geo-alt"></i>
                     <div>
                       <h4>Address:</h4>
-                      <p>123 Book Street, Literary Lane</p>
-                      <p>Wordsmith City, NY 10001</p>
+                      <p>RD CONGO, Nord-Kivu</p>
+                      <p>Ville de Butembo, Rue Matadi</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="social-links">
                   <a href="#"><i class="bi bi-twitter"></i></a>
-                  <a href="#"><i class="bi bi-facebook"></i></a>
-                  <a href="#"><i class="bi bi-instagram"></i></a>
-                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/profile.php?id=100083551737804"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/grukendo?igsh=MTUyc2t6ajZ3bDNkdA=="><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/grace-rukendo-aa10a4397"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -1611,31 +1633,31 @@ Chez Savora, nous mettons tout en œuvre pour faire de chaque moment une expéri
               <form action="forms/contact.php" method="post" class="php-email-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
-                    <label for="name">Your Name</label>
-                    <input type="text" name="name" class="form-control" id="name" placeholder="John Doe" required="">
+                    <label for="name">Nom</label>
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Grace Rukendo" required="">
                   </div>
                   <div class="col-md-6 form-group mt-3 mt-md-0">
-                    <label for="email">Your Email</label>
-                    <input type="email" class="form-control" name="email" id="email" placeholder="john@example.com" required="">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" name="email" id="email" placeholder="gracerukendo2@gmail.com" required="">
                   </div>
                 </div>
                 <div class="form-group mt-3">
-                  <label for="subject">Subject</label>
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="I loved your book!" required="">
+                  <label for="subject">Sujet</label>
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="j'adore ce café resto!" required="">
                 </div>
                 <div class="form-group mt-3">
                   <label for="message">Message</label>
-                  <textarea class="form-control" name="message" rows="4" placeholder="Your message here..." required=""></textarea>
+                  <textarea class="form-control" name="message" rows="4" placeholder="Votre message ici..." required=""></textarea>
                 </div>
 
                 <div class="my-3">
-                  <div class="loading">Loading</div>
+                  <div class="loading">Traitement</div>
                   <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                  <div class="sent-message">votre message a été envoyer. merci!</div>
                 </div>
 
                 <div class="text-center">
-                  <button type="submit">Send Message</button>
+                  <button type="submit">Envoyer Message</button>
                 </div>
               </form>
             </div>

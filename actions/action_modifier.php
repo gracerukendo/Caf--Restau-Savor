@@ -53,7 +53,7 @@ if (isset($_POST['btn_edit'])) {
     $_SESSION['telephone'] = $telephone;
     $_SESSION['avatar'] = $avatar;
 
-    header('Location: ../account.php?msg=Profil mis à jour avec succès');
+    header('Location: ../modif.php?msg=Profil mis à jour avec succès');
     exit;
 }
 ?>
