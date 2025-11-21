@@ -44,9 +44,9 @@
           <li><a href="index.php" class="active">Accueil</a></li>
           <li><a href="index.php#about">About</a></li>
           <li><a href="index.php#menu">Menu</a></li>
-          <li><a href="index.php#book-a-table">Book a Table</a></li>
+          <li><a href="reservation.php">reservation</a></li>
           <li><a href="index.php#chefs">Chefs</a></li>
-          <li><a href="index.php#events">Events</a></li>
+          <li><a href="index.php#events">Evennements</a></li>
           <li><a href="index.php#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

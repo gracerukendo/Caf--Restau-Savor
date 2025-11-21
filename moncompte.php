@@ -79,7 +79,7 @@ require_once 'parties/haeder.php';
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" data-bs-toggle="tab" href="#addresses">
+                    <a class="nav-link" data-bs-toggle="tab" href="index.php#location">
                       <i class="bi bi-geo-alt"></i>
                       <span>Addresses</span>
                     </a>

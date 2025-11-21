@@ -107,7 +107,7 @@
                   Plongez dans un univers de saveurs raffinées où tradition et élégance se rencontrent. Nos plats, préparés avec soin à partir d’ingrédients frais, vous invitent à un voyage culinaire au cœur de la Méditerranée.</p>
 
                 <div class="hero-actions d-flex flex-wrap gap-3 mb-4">
-                  <a href="#book-a-table" class="btn btn-primary">Réserver une table</a>
+                  <a href="reservation.php" class="btn btn-primary">Réserver une table</a>
                   <a href="#menu" class="btn btn-outline">Voir le Menu</a>
                 </div>
 
@@ -209,7 +209,7 @@
 
               <div class="cta-buttons">
                 <a href="#menu" class="btn btn-primary">Voir le Menu</a>
-                <a href="#book-a-table" class="btn btn-orange">Réserver une table</a>
+                <a href="reservation.php" class="btn btn-orange">Réserver une table</a>
               </div>
             </div>
           </div>
@@ -312,7 +312,7 @@
                     </div>
                     <p>Des calamars dorés et croustillants, servis avec une sauce délicate pour éveiller vos papilles.</p>
                     <div class="menu-item-footer">
-                            <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                            <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$15</span>
                     </div>
                   </div>
@@ -333,7 +333,7 @@
                     </div>
                     <p>Boulettes de riz croustillantes, parfumées à la truffe.</p>
                     <div class="menu-item-footer">
-                         <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                         <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$16</span>
                     </div>
                   </div>
@@ -375,7 +375,7 @@
                     </div>
                     <p>Bœuf cru finement haché, assaisonné pour révéler toutes ses saveurs.</p>
                     <div class="menu-item-footer">
-                      <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                      <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">25$</span>
                     </div>
                   </div>
@@ -402,7 +402,7 @@
                     </div>
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$45</span>
                     </div>
                   </div>
@@ -423,7 +423,7 @@
                     </div>
                     <p>Totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$38</span>
                     </div>
                   </div>
@@ -444,7 +444,7 @@
                     </div>
                     <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$42</span>
                     </div>
                   </div>
@@ -465,7 +465,7 @@
                     </div>
                     <p>Magni dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam est qui dolorem</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$32</span>
                     </div>
                   </div>
@@ -492,7 +492,7 @@
                     </div>
                     <p>Ipsum quia dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$14</span>
                     </div>
                   </div>
@@ -513,7 +513,7 @@
                     </div>
                     <p>Ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$12</span>
                     </div>
                   </div>
@@ -534,7 +534,7 @@
                     </div>
                     <p>Laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$13</span>
                     </div>
                   </div>
@@ -555,7 +555,7 @@
                     </div>
                     <p>In voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$11</span>
                     </div>
                   </div>
@@ -582,7 +582,7 @@
                     </div>
                     <p>Cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                     <div class="menu-item-footer">
-                          <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                          <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$16</span>
                     </div>
                   </div>
@@ -603,7 +603,7 @@
                     </div>
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$8</span>
                     </div>
                   </div>
@@ -624,7 +624,7 @@
                     </div>
                     <p>Laudantium totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$35</span>
                     </div>
                   </div>
@@ -645,7 +645,7 @@
                     </div>
                     <p>Architecto beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem quia voluptas</p>
                     <div class="menu-item-footer">
-                        <a href="#book-a-table" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
+                        <a href="reservation.php" class="btn btn-orange"> <i class="bi bi-bookmark-star"></i>Réserver une table</a>
                       <span class="price">$6</span>
                     </div>
                   </div>
@@ -911,7 +911,7 @@ Nos clients partagent leur expérience
     </section><!-- /Chefs Section -->
 
     <!-- Book A Table Section -->
-    <section id="book-a-table" class="book-a-table section">
+    <!-- <section id="book-a-table" class="book-a-table section">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -1044,7 +1044,7 @@ Nos clients partagent leur expérience
 
       </div>
 
-    </section><!-- /Book A Table Section -->
+    </section> --><!-- /Book A Table Section -->
 
     <!-- Location Section -->
     <section id="location" class="location section">
@@ -1099,7 +1099,7 @@ Découvrez Savora, un café-restaurant où le goût authentique rencontre l’é
                   <i class="bi bi-building"></i>
                 </div>
                 <h3>Address</h3>
-                <p>847 Broadway Avenue<br>New York, NY 10003</p>
+                <p>Butembo<br>Rue Kinshasa, N° 123</p>
               </div>
 
               <div class="contact-card" data-aos="fade-up" data-aos-delay="350">
@@ -1107,38 +1107,38 @@ Découvrez Savora, un café-restaurant où le goût authentique rencontre l’é
                   <i class="bi bi-telephone-fill"></i>
                 </div>
                 <h3>Reservations</h3>
-                <p class="phone">+1 (555) 234-5678</p>
-                <p class="note">Recommended 24-48 hours advance booking</p>
+                <p class="phone">+243 098 232 6296</p>
+                <p class="note">Reservez 24 - 48H avant l'evennement</p>
               </div>
 
               <div class="contact-card" data-aos="fade-up" data-aos-delay="450">
                 <div class="card-icon">
                   <i class="bi bi-clock-fill"></i>
                 </div>
-                <h3>Operating Hours</h3>
+                <h3>Heure Opérationnelle</h3>
                 <div class="hours-list">
                   <div class="hour-item">
-                    <span class="day">Tuesday - Thursday</span>
-                    <span class="time">5:00 PM - 10:00 PM</span>
+                    <span class="day">lundi - Mercredi</span>
+                    <span class="time">5:00 AM - 21:00 PM</span>
                   </div>
                   <div class="hour-item">
-                    <span class="day">Friday - Saturday</span>
-                    <span class="time">5:00 PM - 11:00 PM</span>
+                    <span class="day">Jeudi - Samedi</span>
+                    <span class="time">5:00 AM - 21:00 PM</span>
                   </div>
                   <div class="hour-item">
-                    <span class="day">Sunday</span>
-                    <span class="time">4:00 PM - 9:00 PM</span>
+                    <span class="day">Vendredi</span>
+                    <span class="time">9:00 AM - 21:00 PM</span>
                   </div>
                   <div class="hour-item closed">
-                    <span class="day">Monday</span>
-                    <span class="time">Closed</span>
+                    <span class="day">Mardi</span>
+                    <span class="time">le site est fermé</span>
                   </div>
                 </div>
               </div>
 
               <div class="action-buttons" data-aos="fade-up" data-aos-delay="550">
-                <a href="#book-a-table" class="btn-primary">Book a Table</a>
-                <a href="#" class="btn-secondary">Get Directions</a>
+                <a href="reservation.php" class="btn-primary">Reservation</a>
+                <a href="index.php#contact" class="btn-secondary">Orientations</a>
               </div>
             </div>
           </div>
@@ -1203,15 +1203,6 @@ Nous vous garantissons une expérience élégante, gourmande et parfaitement org
                     <span class="per">par personne</span>
                   </div>
                 </div>
-          
-
-
-
-
-
-
-
-
 
                 <div class="package-features">
                   <ul>
